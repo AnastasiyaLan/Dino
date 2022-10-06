@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\ChromeDino-c-sharp-master\Dino\bin\Debug\Dino.exe.config
+C:\Users\student\Desktop\ChromeDino-c-sharp-master\Dino\bin\Debug\Dino.exe
+C:\Users\student\Desktop\ChromeDino-c-sharp-master\Dino\bin\Debug\Dino.pdb
+C:\Users\student\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.Properties.Resources.resources
+C:\Users\student\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.exe
+C:\Users\student\Desktop\ChromeDino-c-sharp-master\Dino\obj\Debug\Dino.pdb
